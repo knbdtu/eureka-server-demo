@@ -1,0 +1,4 @@
+.idea/
+.gradle/
+build/
+eureka-server-demo.iml
